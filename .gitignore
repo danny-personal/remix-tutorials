@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Testing
+coverage/
+
+# Production build
+build/
+
+# Debug logs and other development files
+debug.log
+debug/
+*.swp
+*.tmp
+
+# Environment variables
+.env
+
+# Editor configuration
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
